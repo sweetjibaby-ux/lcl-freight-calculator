@@ -1,0 +1,2377 @@
+{
+  "basis": "origin_gate_in",
+  "effective": "2026-11-01",
+  "expires": "2027-04-30",
+  "oceanContract": "224059-NA-OCEAN-FBS-FBCG-FLOAT-2026-011",
+  "sourceWorkbook": "302223_NA_Rates_For_Gate_In_2026-11-01.xlsx",
+  "sourceSheet": "FBCG Ocean FL  - Rates",
+  "columns": [
+    "L",
+    "M"
+  ],
+  "totalRoutes": 762,
+  "changedLclRoutes": 294,
+  "bunkerChanged": false,
+  "drayChanged": false,
+  "pssChanged": false,
+  "deltaCounts": {
+    "1.0": 220,
+    "2.0": 44,
+    "-8.0": 25,
+    "-7.0": 5
+  },
+  "changes": [
+    {
+      "origin": "Anqing",
+      "port": "Baltimore",
+      "oldOcean": 84.0,
+      "newOcean": 85,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Anqing",
+      "port": "Jacksonville",
+      "oldOcean": 84.0,
+      "newOcean": 85,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Anqing",
+      "port": "New York",
+      "oldOcean": 84.0,
+      "newOcean": 85,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Anqing",
+      "port": "Newark",
+      "oldOcean": 84.0,
+      "newOcean": 85,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Anqing",
+      "port": "Savannah",
+      "oldOcean": 84.0,
+      "newOcean": 85,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Dalian Pt",
+      "port": "Baltimore",
+      "oldOcean": 78.0,
+      "newOcean": 79,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Dalian Pt",
+      "port": "Jacksonville",
+      "oldOcean": 78.0,
+      "newOcean": 79,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Dalian Pt",
+      "port": "New York",
+      "oldOcean": 78.0,
+      "newOcean": 79,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Dalian Pt",
+      "port": "Newark",
+      "oldOcean": 78.0,
+      "newOcean": 79,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Dalian Pt",
+      "port": "Savannah",
+      "oldOcean": 78.0,
+      "newOcean": 79,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Fuzhou Pt",
+      "port": "Baltimore",
+      "oldOcean": 80.0,
+      "newOcean": 81,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Fuzhou Pt",
+      "port": "Jacksonville",
+      "oldOcean": 80.0,
+      "newOcean": 81,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Fuzhou Pt",
+      "port": "New York",
+      "oldOcean": 80.0,
+      "newOcean": 81,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Fuzhou Pt",
+      "port": "Newark",
+      "oldOcean": 80.0,
+      "newOcean": 81,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Fuzhou Pt",
+      "port": "Savannah",
+      "oldOcean": 80.0,
+      "newOcean": 81,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Jiangmen Pt",
+      "port": "Baltimore",
+      "oldOcean": 80.0,
+      "newOcean": 81,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Jiangmen Pt",
+      "port": "Jacksonville",
+      "oldOcean": 80.0,
+      "newOcean": 81,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Jiangmen Pt",
+      "port": "New York",
+      "oldOcean": 80.0,
+      "newOcean": 81,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Jiangmen Pt",
+      "port": "Newark",
+      "oldOcean": 80.0,
+      "newOcean": 81,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Jiangmen Pt",
+      "port": "Savannah",
+      "oldOcean": 80.0,
+      "newOcean": 81,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Jiaxing Pt",
+      "port": "Baltimore",
+      "oldOcean": 80.0,
+      "newOcean": 81,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Jiaxing Pt",
+      "port": "Jacksonville",
+      "oldOcean": 80.0,
+      "newOcean": 81,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Jiaxing Pt",
+      "port": "New York",
+      "oldOcean": 80.0,
+      "newOcean": 81,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Jiaxing Pt",
+      "port": "Newark",
+      "oldOcean": 80.0,
+      "newOcean": 81,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Jiaxing Pt",
+      "port": "Savannah",
+      "oldOcean": 80.0,
+      "newOcean": 81,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Jiujiang",
+      "port": "Baltimore",
+      "oldOcean": 82.0,
+      "newOcean": 83,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Jiujiang",
+      "port": "Jacksonville",
+      "oldOcean": 82.0,
+      "newOcean": 83,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Jiujiang",
+      "port": "New York",
+      "oldOcean": 82.0,
+      "newOcean": 83,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Jiujiang",
+      "port": "Newark",
+      "oldOcean": 82.0,
+      "newOcean": 83,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Jiujiang",
+      "port": "Savannah",
+      "oldOcean": 82.0,
+      "newOcean": 83,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Lianyungang",
+      "port": "Baltimore",
+      "oldOcean": 82.0,
+      "newOcean": 83,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Lianyungang",
+      "port": "Jacksonville",
+      "oldOcean": 82.0,
+      "newOcean": 83,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Lianyungang",
+      "port": "New York",
+      "oldOcean": 82.0,
+      "newOcean": 83,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Lianyungang",
+      "port": "Newark",
+      "oldOcean": 82.0,
+      "newOcean": 83,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Lianyungang",
+      "port": "Savannah",
+      "oldOcean": 82.0,
+      "newOcean": 83,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Nanjing",
+      "port": "Baltimore",
+      "oldOcean": 82.0,
+      "newOcean": 83,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Nanjing",
+      "port": "Jacksonville",
+      "oldOcean": 82.0,
+      "newOcean": 83,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Nanjing",
+      "port": "New York",
+      "oldOcean": 82.0,
+      "newOcean": 83,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Nanjing",
+      "port": "Newark",
+      "oldOcean": 82.0,
+      "newOcean": 83,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Nanjing",
+      "port": "Savannah",
+      "oldOcean": 82.0,
+      "newOcean": 83,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Nansha Pt",
+      "port": "Baltimore",
+      "oldOcean": 78.0,
+      "newOcean": 79,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Nansha Pt",
+      "port": "Jacksonville",
+      "oldOcean": 78.0,
+      "newOcean": 79,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Nansha Pt",
+      "port": "New York",
+      "oldOcean": 78.0,
+      "newOcean": 79,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Nansha Pt",
+      "port": "Newark",
+      "oldOcean": 78.0,
+      "newOcean": 79,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Nansha Pt",
+      "port": "Savannah",
+      "oldOcean": 78.0,
+      "newOcean": 79,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Nantong Pt",
+      "port": "Baltimore",
+      "oldOcean": 82.0,
+      "newOcean": 83,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Nantong Pt",
+      "port": "Jacksonville",
+      "oldOcean": 82.0,
+      "newOcean": 83,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Nantong Pt",
+      "port": "New York",
+      "oldOcean": 82.0,
+      "newOcean": 83,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Nantong Pt",
+      "port": "Newark",
+      "oldOcean": 82.0,
+      "newOcean": 83,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Nantong Pt",
+      "port": "Savannah",
+      "oldOcean": 82.0,
+      "newOcean": 83,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Ningbo",
+      "port": "Baltimore",
+      "oldOcean": 76.0,
+      "newOcean": 77,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Ningbo",
+      "port": "Jacksonville",
+      "oldOcean": 76.0,
+      "newOcean": 77,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Ningbo",
+      "port": "New York",
+      "oldOcean": 76.0,
+      "newOcean": 77,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Ningbo",
+      "port": "Newark",
+      "oldOcean": 76.0,
+      "newOcean": 77,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Ningbo",
+      "port": "Savannah",
+      "oldOcean": 76.0,
+      "newOcean": 77,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Qingdao",
+      "port": "Baltimore",
+      "oldOcean": 76.0,
+      "newOcean": 77,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Qingdao",
+      "port": "Jacksonville",
+      "oldOcean": 76.0,
+      "newOcean": 77,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Qingdao",
+      "port": "New York",
+      "oldOcean": 76.0,
+      "newOcean": 77,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Qingdao",
+      "port": "Newark",
+      "oldOcean": 76.0,
+      "newOcean": 77,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Qingdao",
+      "port": "Savannah",
+      "oldOcean": 76.0,
+      "newOcean": 77,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Shanghai",
+      "port": "Baltimore",
+      "oldOcean": 76.0,
+      "newOcean": 77,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Shanghai",
+      "port": "Jacksonville",
+      "oldOcean": 76.0,
+      "newOcean": 77,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Shanghai",
+      "port": "New York",
+      "oldOcean": 76.0,
+      "newOcean": 77,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Shanghai",
+      "port": "Newark",
+      "oldOcean": 76.0,
+      "newOcean": 77,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Shanghai",
+      "port": "Savannah",
+      "oldOcean": 76.0,
+      "newOcean": 77,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Shekou",
+      "port": "Baltimore",
+      "oldOcean": 76.0,
+      "newOcean": 77,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Shekou",
+      "port": "Jacksonville",
+      "oldOcean": 76.0,
+      "newOcean": 77,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Shekou",
+      "port": "New York",
+      "oldOcean": 76.0,
+      "newOcean": 77,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Shekou",
+      "port": "Newark",
+      "oldOcean": 76.0,
+      "newOcean": 77,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Shekou",
+      "port": "Savannah",
+      "oldOcean": 76.0,
+      "newOcean": 77,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Tianjin Xingang Pt",
+      "port": "Baltimore",
+      "oldOcean": 78.0,
+      "newOcean": 79,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Tianjin Xingang Pt",
+      "port": "Jacksonville",
+      "oldOcean": 78.0,
+      "newOcean": 79,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Tianjin Xingang Pt",
+      "port": "New York",
+      "oldOcean": 78.0,
+      "newOcean": 79,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Tianjin Xingang Pt",
+      "port": "Newark",
+      "oldOcean": 78.0,
+      "newOcean": 79,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Tianjin Xingang Pt",
+      "port": "Savannah",
+      "oldOcean": 78.0,
+      "newOcean": 79,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Wuhan Pt",
+      "port": "Baltimore",
+      "oldOcean": 84.0,
+      "newOcean": 85,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Wuhan Pt",
+      "port": "Jacksonville",
+      "oldOcean": 84.0,
+      "newOcean": 85,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Wuhan Pt",
+      "port": "New York",
+      "oldOcean": 84.0,
+      "newOcean": 85,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Wuhan Pt",
+      "port": "Newark",
+      "oldOcean": 84.0,
+      "newOcean": 85,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Wuhan Pt",
+      "port": "Savannah",
+      "oldOcean": 84.0,
+      "newOcean": 85,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Wuhu Pt",
+      "port": "Baltimore",
+      "oldOcean": 82.0,
+      "newOcean": 83,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Wuhu Pt",
+      "port": "Jacksonville",
+      "oldOcean": 82.0,
+      "newOcean": 83,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Wuhu Pt",
+      "port": "New York",
+      "oldOcean": 82.0,
+      "newOcean": 83,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Wuhu Pt",
+      "port": "Newark",
+      "oldOcean": 82.0,
+      "newOcean": 83,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Wuhu Pt",
+      "port": "Savannah",
+      "oldOcean": 82.0,
+      "newOcean": 83,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Xiamen",
+      "port": "Baltimore",
+      "oldOcean": 76.0,
+      "newOcean": 77,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Xiamen",
+      "port": "Jacksonville",
+      "oldOcean": 76.0,
+      "newOcean": 77,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Xiamen",
+      "port": "New York",
+      "oldOcean": 76.0,
+      "newOcean": 77,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Xiamen",
+      "port": "Newark",
+      "oldOcean": 76.0,
+      "newOcean": 77,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Xiamen",
+      "port": "Savannah",
+      "oldOcean": 76.0,
+      "newOcean": 77,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Yantian",
+      "port": "Baltimore",
+      "oldOcean": 76.0,
+      "newOcean": 77,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Yantian",
+      "port": "Jacksonville",
+      "oldOcean": 76.0,
+      "newOcean": 77,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Yantian",
+      "port": "New York",
+      "oldOcean": 76.0,
+      "newOcean": 77,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Yantian",
+      "port": "Newark",
+      "oldOcean": 76.0,
+      "newOcean": 77,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Yantian",
+      "port": "Savannah",
+      "oldOcean": 76.0,
+      "newOcean": 77,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Zhongshan Pt",
+      "port": "Baltimore",
+      "oldOcean": 80.0,
+      "newOcean": 81,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Zhongshan Pt",
+      "port": "Jacksonville",
+      "oldOcean": 80.0,
+      "newOcean": 81,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Zhongshan Pt",
+      "port": "New York",
+      "oldOcean": 80.0,
+      "newOcean": 81,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Zhongshan Pt",
+      "port": "Newark",
+      "oldOcean": 80.0,
+      "newOcean": 81,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Zhongshan Pt",
+      "port": "Savannah",
+      "oldOcean": 80.0,
+      "newOcean": 81,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Cai Mep",
+      "port": "Baltimore",
+      "oldOcean": 78.0,
+      "newOcean": 79,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Cai Mep",
+      "port": "Jacksonville",
+      "oldOcean": 78.0,
+      "newOcean": 79,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Cai Mep",
+      "port": "New York",
+      "oldOcean": 78.0,
+      "newOcean": 79,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Cai Mep",
+      "port": "Newark",
+      "oldOcean": 78.0,
+      "newOcean": 79,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Cai Mep",
+      "port": "Savannah",
+      "oldOcean": 78.0,
+      "newOcean": 79,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Da Nang",
+      "port": "Baltimore",
+      "oldOcean": 84.0,
+      "newOcean": 85,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Da Nang",
+      "port": "Jacksonville",
+      "oldOcean": 84.0,
+      "newOcean": 85,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Da Nang",
+      "port": "New York",
+      "oldOcean": 84.0,
+      "newOcean": 85,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Da Nang",
+      "port": "Newark",
+      "oldOcean": 84.0,
+      "newOcean": 85,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Da Nang",
+      "port": "Savannah",
+      "oldOcean": 84.0,
+      "newOcean": 85,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Haiphong",
+      "port": "Baltimore",
+      "oldOcean": 78.0,
+      "newOcean": 79,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Haiphong",
+      "port": "Jacksonville",
+      "oldOcean": 78.0,
+      "newOcean": 79,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Haiphong",
+      "port": "New York",
+      "oldOcean": 78.0,
+      "newOcean": 79,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Haiphong",
+      "port": "Newark",
+      "oldOcean": 78.0,
+      "newOcean": 79,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Haiphong",
+      "port": "Savannah",
+      "oldOcean": 78.0,
+      "newOcean": 79,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Ho Chi Minh City",
+      "port": "Baltimore",
+      "oldOcean": 78.0,
+      "newOcean": 79,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Ho Chi Minh City",
+      "port": "Jacksonville",
+      "oldOcean": 78.0,
+      "newOcean": 79,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Ho Chi Minh City",
+      "port": "New York",
+      "oldOcean": 78.0,
+      "newOcean": 79,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Ho Chi Minh City",
+      "port": "Newark",
+      "oldOcean": 78.0,
+      "newOcean": 79,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Ho Chi Minh City",
+      "port": "Savannah",
+      "oldOcean": 78.0,
+      "newOcean": 79,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Qui Nhon",
+      "port": "Baltimore",
+      "oldOcean": 84.0,
+      "newOcean": 85,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Qui Nhon",
+      "port": "Jacksonville",
+      "oldOcean": 84.0,
+      "newOcean": 85,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Qui Nhon",
+      "port": "New York",
+      "oldOcean": 84.0,
+      "newOcean": 85,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Qui Nhon",
+      "port": "Newark",
+      "oldOcean": 84.0,
+      "newOcean": 85,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Qui Nhon",
+      "port": "Savannah",
+      "oldOcean": 84.0,
+      "newOcean": 85,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Vung Tau",
+      "port": "Baltimore",
+      "oldOcean": 78.0,
+      "newOcean": 79,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Vung Tau",
+      "port": "Jacksonville",
+      "oldOcean": 78.0,
+      "newOcean": 79,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Vung Tau",
+      "port": "New York",
+      "oldOcean": 78.0,
+      "newOcean": 79,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Vung Tau",
+      "port": "Newark",
+      "oldOcean": 78.0,
+      "newOcean": 79,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Vung Tau",
+      "port": "Savannah",
+      "oldOcean": 78.0,
+      "newOcean": 79,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Hong Kong",
+      "port": "Baltimore",
+      "oldOcean": 76.0,
+      "newOcean": 77,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Hong Kong",
+      "port": "Jacksonville",
+      "oldOcean": 76.0,
+      "newOcean": 77,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Hong Kong",
+      "port": "New York",
+      "oldOcean": 76.0,
+      "newOcean": 77,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Hong Kong",
+      "port": "Newark",
+      "oldOcean": 76.0,
+      "newOcean": 77,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Hong Kong",
+      "port": "Savannah",
+      "oldOcean": 76.0,
+      "newOcean": 77,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Belawan, Sumatra",
+      "port": "Baltimore",
+      "oldOcean": 82.0,
+      "newOcean": 83,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Belawan, Sumatra",
+      "port": "Jacksonville",
+      "oldOcean": 82.0,
+      "newOcean": 83,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Belawan, Sumatra",
+      "port": "New York",
+      "oldOcean": 82.0,
+      "newOcean": 83,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Belawan, Sumatra",
+      "port": "Newark",
+      "oldOcean": 82.0,
+      "newOcean": 83,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Belawan, Sumatra",
+      "port": "Savannah",
+      "oldOcean": 82.0,
+      "newOcean": 83,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Jakarta, Java",
+      "port": "Baltimore",
+      "oldOcean": 80.0,
+      "newOcean": 81,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Jakarta, Java",
+      "port": "Jacksonville",
+      "oldOcean": 80.0,
+      "newOcean": 81,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Jakarta, Java",
+      "port": "New York",
+      "oldOcean": 80.0,
+      "newOcean": 81,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Jakarta, Java",
+      "port": "Newark",
+      "oldOcean": 80.0,
+      "newOcean": 81,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Jakarta, Java",
+      "port": "Savannah",
+      "oldOcean": 80.0,
+      "newOcean": 81,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Semarang",
+      "port": "Baltimore",
+      "oldOcean": 80.0,
+      "newOcean": 81,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Semarang",
+      "port": "Jacksonville",
+      "oldOcean": 80.0,
+      "newOcean": 81,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Semarang",
+      "port": "New York",
+      "oldOcean": 80.0,
+      "newOcean": 81,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Semarang",
+      "port": "Newark",
+      "oldOcean": 80.0,
+      "newOcean": 81,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Semarang",
+      "port": "Savannah",
+      "oldOcean": 80.0,
+      "newOcean": 81,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Surabaya",
+      "port": "Baltimore",
+      "oldOcean": 80.0,
+      "newOcean": 81,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Surabaya",
+      "port": "Jacksonville",
+      "oldOcean": 80.0,
+      "newOcean": 81,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Surabaya",
+      "port": "New York",
+      "oldOcean": 80.0,
+      "newOcean": 81,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Surabaya",
+      "port": "Newark",
+      "oldOcean": 80.0,
+      "newOcean": 81,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Surabaya",
+      "port": "Savannah",
+      "oldOcean": 80.0,
+      "newOcean": 81,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Phnom Penh",
+      "port": "Baltimore",
+      "oldOcean": 82.0,
+      "newOcean": 83,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Phnom Penh",
+      "port": "Jacksonville",
+      "oldOcean": 82.0,
+      "newOcean": 83,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Phnom Penh",
+      "port": "New York",
+      "oldOcean": 82.0,
+      "newOcean": 83,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Phnom Penh",
+      "port": "Newark",
+      "oldOcean": 82.0,
+      "newOcean": 83,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Phnom Penh",
+      "port": "Savannah",
+      "oldOcean": 82.0,
+      "newOcean": 83,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Pusan",
+      "port": "Baltimore",
+      "oldOcean": 76.0,
+      "newOcean": 77,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Pusan",
+      "port": "Jacksonville",
+      "oldOcean": 76.0,
+      "newOcean": 77,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Pusan",
+      "port": "New York",
+      "oldOcean": 76.0,
+      "newOcean": 77,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Pusan",
+      "port": "Newark",
+      "oldOcean": 76.0,
+      "newOcean": 77,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Pusan",
+      "port": "Savannah",
+      "oldOcean": 76.0,
+      "newOcean": 77,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Pasir Gudang, Johor",
+      "port": "Baltimore",
+      "oldOcean": 80.0,
+      "newOcean": 81,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Pasir Gudang, Johor",
+      "port": "Jacksonville",
+      "oldOcean": 80.0,
+      "newOcean": 81,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Pasir Gudang, Johor",
+      "port": "New York",
+      "oldOcean": 80.0,
+      "newOcean": 81,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Pasir Gudang, Johor",
+      "port": "Newark",
+      "oldOcean": 80.0,
+      "newOcean": 81,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Pasir Gudang, Johor",
+      "port": "Savannah",
+      "oldOcean": 80.0,
+      "newOcean": 81,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Penang",
+      "port": "Baltimore",
+      "oldOcean": 80.0,
+      "newOcean": 81,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Penang",
+      "port": "Jacksonville",
+      "oldOcean": 80.0,
+      "newOcean": 81,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Penang",
+      "port": "New York",
+      "oldOcean": 80.0,
+      "newOcean": 81,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Penang",
+      "port": "Newark",
+      "oldOcean": 80.0,
+      "newOcean": 81,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Penang",
+      "port": "Savannah",
+      "oldOcean": 80.0,
+      "newOcean": 81,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Port Klang (Pelabuhan Klang)",
+      "port": "Baltimore",
+      "oldOcean": 80.0,
+      "newOcean": 81,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Port Klang (Pelabuhan Klang)",
+      "port": "Jacksonville",
+      "oldOcean": 80.0,
+      "newOcean": 81,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Port Klang (Pelabuhan Klang)",
+      "port": "New York",
+      "oldOcean": 80.0,
+      "newOcean": 81,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Port Klang (Pelabuhan Klang)",
+      "port": "Newark",
+      "oldOcean": 80.0,
+      "newOcean": 81,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Port Klang (Pelabuhan Klang)",
+      "port": "Savannah",
+      "oldOcean": 80.0,
+      "newOcean": 81,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Tanjung Pelepas",
+      "port": "Baltimore",
+      "oldOcean": 80.0,
+      "newOcean": 81,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Tanjung Pelepas",
+      "port": "Jacksonville",
+      "oldOcean": 80.0,
+      "newOcean": 81,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Tanjung Pelepas",
+      "port": "New York",
+      "oldOcean": 80.0,
+      "newOcean": 81,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Tanjung Pelepas",
+      "port": "Newark",
+      "oldOcean": 80.0,
+      "newOcean": 81,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Tanjung Pelepas",
+      "port": "Savannah",
+      "oldOcean": 80.0,
+      "newOcean": 81,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Singapore",
+      "port": "Baltimore",
+      "oldOcean": 78.0,
+      "newOcean": 79,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Singapore",
+      "port": "Jacksonville",
+      "oldOcean": 78.0,
+      "newOcean": 79,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Singapore",
+      "port": "New York",
+      "oldOcean": 78.0,
+      "newOcean": 79,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Singapore",
+      "port": "Newark",
+      "oldOcean": 78.0,
+      "newOcean": 79,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Singapore",
+      "port": "Savannah",
+      "oldOcean": 78.0,
+      "newOcean": 79,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Bangkok",
+      "port": "Baltimore",
+      "oldOcean": 78.0,
+      "newOcean": 79,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Bangkok",
+      "port": "Jacksonville",
+      "oldOcean": 78.0,
+      "newOcean": 79,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Bangkok",
+      "port": "New York",
+      "oldOcean": 78.0,
+      "newOcean": 79,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Bangkok",
+      "port": "Newark",
+      "oldOcean": 78.0,
+      "newOcean": 79,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Bangkok",
+      "port": "Savannah",
+      "oldOcean": 78.0,
+      "newOcean": 79,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Laem Chabang",
+      "port": "Baltimore",
+      "oldOcean": 78.0,
+      "newOcean": 79,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Laem Chabang",
+      "port": "Jacksonville",
+      "oldOcean": 78.0,
+      "newOcean": 79,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Laem Chabang",
+      "port": "New York",
+      "oldOcean": 78.0,
+      "newOcean": 79,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Laem Chabang",
+      "port": "Newark",
+      "oldOcean": 78.0,
+      "newOcean": 79,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Laem Chabang",
+      "port": "Savannah",
+      "oldOcean": 78.0,
+      "newOcean": 79,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Kaohsiung",
+      "port": "Baltimore",
+      "oldOcean": 76.0,
+      "newOcean": 77,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Kaohsiung",
+      "port": "Jacksonville",
+      "oldOcean": 76.0,
+      "newOcean": 77,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Kaohsiung",
+      "port": "New York",
+      "oldOcean": 76.0,
+      "newOcean": 77,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Kaohsiung",
+      "port": "Newark",
+      "oldOcean": 76.0,
+      "newOcean": 77,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Kaohsiung",
+      "port": "Savannah",
+      "oldOcean": 76.0,
+      "newOcean": 77,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Keelung (Chilung)",
+      "port": "Baltimore",
+      "oldOcean": 78.0,
+      "newOcean": 79,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Keelung (Chilung)",
+      "port": "Jacksonville",
+      "oldOcean": 78.0,
+      "newOcean": 79,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Keelung (Chilung)",
+      "port": "New York",
+      "oldOcean": 78.0,
+      "newOcean": 79,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Keelung (Chilung)",
+      "port": "Newark",
+      "oldOcean": 78.0,
+      "newOcean": 79,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Keelung (Chilung)",
+      "port": "Savannah",
+      "oldOcean": 78.0,
+      "newOcean": 79,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Taichung",
+      "port": "Baltimore",
+      "oldOcean": 78.0,
+      "newOcean": 79,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Taichung",
+      "port": "Jacksonville",
+      "oldOcean": 78.0,
+      "newOcean": 79,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Taichung",
+      "port": "New York",
+      "oldOcean": 78.0,
+      "newOcean": 79,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Taichung",
+      "port": "Newark",
+      "oldOcean": 78.0,
+      "newOcean": 79,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Taichung",
+      "port": "Savannah",
+      "oldOcean": 78.0,
+      "newOcean": 79,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Sihanoukville Pt",
+      "port": "Baltimore",
+      "oldOcean": 82.0,
+      "newOcean": 83,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Sihanoukville Pt",
+      "port": "Jacksonville",
+      "oldOcean": 82.0,
+      "newOcean": 83,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Sihanoukville Pt",
+      "port": "New York",
+      "oldOcean": 82.0,
+      "newOcean": 83,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Sihanoukville Pt",
+      "port": "Newark",
+      "oldOcean": 82.0,
+      "newOcean": 83,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Sihanoukville Pt",
+      "port": "Savannah",
+      "oldOcean": 82.0,
+      "newOcean": 83,
+      "bunker": 29,
+      "delta": 1.0
+    },
+    {
+      "origin": "Anqing",
+      "port": "Houston",
+      "oldOcean": 85.0,
+      "newOcean": 87,
+      "bunker": 29,
+      "delta": 2.0
+    },
+    {
+      "origin": "Dalian Pt",
+      "port": "Houston",
+      "oldOcean": 79.0,
+      "newOcean": 81,
+      "bunker": 29,
+      "delta": 2.0
+    },
+    {
+      "origin": "Fuzhou Pt",
+      "port": "Houston",
+      "oldOcean": 81.0,
+      "newOcean": 83,
+      "bunker": 29,
+      "delta": 2.0
+    },
+    {
+      "origin": "Jiangmen Pt",
+      "port": "Houston",
+      "oldOcean": 81.0,
+      "newOcean": 83,
+      "bunker": 29,
+      "delta": 2.0
+    },
+    {
+      "origin": "Jiaxing Pt",
+      "port": "Houston",
+      "oldOcean": 81.0,
+      "newOcean": 83,
+      "bunker": 29,
+      "delta": 2.0
+    },
+    {
+      "origin": "Jiujiang",
+      "port": "Houston",
+      "oldOcean": 83.0,
+      "newOcean": 85,
+      "bunker": 29,
+      "delta": 2.0
+    },
+    {
+      "origin": "Lianyungang",
+      "port": "Houston",
+      "oldOcean": 83.0,
+      "newOcean": 85,
+      "bunker": 29,
+      "delta": 2.0
+    },
+    {
+      "origin": "Nanjing",
+      "port": "Houston",
+      "oldOcean": 83.0,
+      "newOcean": 85,
+      "bunker": 29,
+      "delta": 2.0
+    },
+    {
+      "origin": "Nansha Pt",
+      "port": "Houston",
+      "oldOcean": 79.0,
+      "newOcean": 81,
+      "bunker": 29,
+      "delta": 2.0
+    },
+    {
+      "origin": "Nantong Pt",
+      "port": "Houston",
+      "oldOcean": 83.0,
+      "newOcean": 85,
+      "bunker": 29,
+      "delta": 2.0
+    },
+    {
+      "origin": "Ningbo",
+      "port": "Houston",
+      "oldOcean": 77.0,
+      "newOcean": 79,
+      "bunker": 29,
+      "delta": 2.0
+    },
+    {
+      "origin": "Qingdao",
+      "port": "Houston",
+      "oldOcean": 77.0,
+      "newOcean": 79,
+      "bunker": 29,
+      "delta": 2.0
+    },
+    {
+      "origin": "Shanghai",
+      "port": "Houston",
+      "oldOcean": 77.0,
+      "newOcean": 79,
+      "bunker": 29,
+      "delta": 2.0
+    },
+    {
+      "origin": "Shekou",
+      "port": "Houston",
+      "oldOcean": 77.0,
+      "newOcean": 79,
+      "bunker": 29,
+      "delta": 2.0
+    },
+    {
+      "origin": "Tianjin Xingang Pt",
+      "port": "Houston",
+      "oldOcean": 79.0,
+      "newOcean": 81,
+      "bunker": 29,
+      "delta": 2.0
+    },
+    {
+      "origin": "Wuhan Pt",
+      "port": "Houston",
+      "oldOcean": 85.0,
+      "newOcean": 87,
+      "bunker": 29,
+      "delta": 2.0
+    },
+    {
+      "origin": "Wuhu Pt",
+      "port": "Houston",
+      "oldOcean": 83.0,
+      "newOcean": 85,
+      "bunker": 29,
+      "delta": 2.0
+    },
+    {
+      "origin": "Xiamen",
+      "port": "Houston",
+      "oldOcean": 77.0,
+      "newOcean": 79,
+      "bunker": 29,
+      "delta": 2.0
+    },
+    {
+      "origin": "Yantian",
+      "port": "Houston",
+      "oldOcean": 77.0,
+      "newOcean": 79,
+      "bunker": 29,
+      "delta": 2.0
+    },
+    {
+      "origin": "Zhongshan Pt",
+      "port": "Houston",
+      "oldOcean": 81.0,
+      "newOcean": 83,
+      "bunker": 29,
+      "delta": 2.0
+    },
+    {
+      "origin": "Cai Mep",
+      "port": "Houston",
+      "oldOcean": 79.0,
+      "newOcean": 81,
+      "bunker": 29,
+      "delta": 2.0
+    },
+    {
+      "origin": "Da Nang",
+      "port": "Houston",
+      "oldOcean": 85.0,
+      "newOcean": 87,
+      "bunker": 29,
+      "delta": 2.0
+    },
+    {
+      "origin": "Haiphong",
+      "port": "Houston",
+      "oldOcean": 79.0,
+      "newOcean": 81,
+      "bunker": 29,
+      "delta": 2.0
+    },
+    {
+      "origin": "Ho Chi Minh City",
+      "port": "Houston",
+      "oldOcean": 79.0,
+      "newOcean": 81,
+      "bunker": 29,
+      "delta": 2.0
+    },
+    {
+      "origin": "Qui Nhon",
+      "port": "Houston",
+      "oldOcean": 85.0,
+      "newOcean": 87,
+      "bunker": 29,
+      "delta": 2.0
+    },
+    {
+      "origin": "Vung Tau",
+      "port": "Houston",
+      "oldOcean": 79.0,
+      "newOcean": 81,
+      "bunker": 29,
+      "delta": 2.0
+    },
+    {
+      "origin": "Hong Kong",
+      "port": "Houston",
+      "oldOcean": 77.0,
+      "newOcean": 79,
+      "bunker": 29,
+      "delta": 2.0
+    },
+    {
+      "origin": "Belawan, Sumatra",
+      "port": "Houston",
+      "oldOcean": 83.0,
+      "newOcean": 85,
+      "bunker": 29,
+      "delta": 2.0
+    },
+    {
+      "origin": "Jakarta, Java",
+      "port": "Houston",
+      "oldOcean": 81.0,
+      "newOcean": 83,
+      "bunker": 29,
+      "delta": 2.0
+    },
+    {
+      "origin": "Semarang",
+      "port": "Houston",
+      "oldOcean": 81.0,
+      "newOcean": 83,
+      "bunker": 29,
+      "delta": 2.0
+    },
+    {
+      "origin": "Surabaya",
+      "port": "Houston",
+      "oldOcean": 81.0,
+      "newOcean": 83,
+      "bunker": 29,
+      "delta": 2.0
+    },
+    {
+      "origin": "Phnom Penh",
+      "port": "Houston",
+      "oldOcean": 83.0,
+      "newOcean": 85,
+      "bunker": 29,
+      "delta": 2.0
+    },
+    {
+      "origin": "Pusan",
+      "port": "Houston",
+      "oldOcean": 77.0,
+      "newOcean": 79,
+      "bunker": 29,
+      "delta": 2.0
+    },
+    {
+      "origin": "Pasir Gudang, Johor",
+      "port": "Houston",
+      "oldOcean": 81.0,
+      "newOcean": 83,
+      "bunker": 29,
+      "delta": 2.0
+    },
+    {
+      "origin": "Penang",
+      "port": "Houston",
+      "oldOcean": 81.0,
+      "newOcean": 83,
+      "bunker": 29,
+      "delta": 2.0
+    },
+    {
+      "origin": "Port Klang (Pelabuhan Klang)",
+      "port": "Houston",
+      "oldOcean": 81.0,
+      "newOcean": 83,
+      "bunker": 29,
+      "delta": 2.0
+    },
+    {
+      "origin": "Tanjung Pelepas",
+      "port": "Houston",
+      "oldOcean": 81.0,
+      "newOcean": 83,
+      "bunker": 29,
+      "delta": 2.0
+    },
+    {
+      "origin": "Singapore",
+      "port": "Houston",
+      "oldOcean": 79.0,
+      "newOcean": 81,
+      "bunker": 29,
+      "delta": 2.0
+    },
+    {
+      "origin": "Bangkok",
+      "port": "Houston",
+      "oldOcean": 79.0,
+      "newOcean": 81,
+      "bunker": 29,
+      "delta": 2.0
+    },
+    {
+      "origin": "Laem Chabang",
+      "port": "Houston",
+      "oldOcean": 79.0,
+      "newOcean": 81,
+      "bunker": 29,
+      "delta": 2.0
+    },
+    {
+      "origin": "Kaohsiung",
+      "port": "Houston",
+      "oldOcean": 77.0,
+      "newOcean": 79,
+      "bunker": 29,
+      "delta": 2.0
+    },
+    {
+      "origin": "Keelung (Chilung)",
+      "port": "Houston",
+      "oldOcean": 79.0,
+      "newOcean": 81,
+      "bunker": 29,
+      "delta": 2.0
+    },
+    {
+      "origin": "Taichung",
+      "port": "Houston",
+      "oldOcean": 79.0,
+      "newOcean": 81,
+      "bunker": 29,
+      "delta": 2.0
+    },
+    {
+      "origin": "Sihanoukville Pt",
+      "port": "Houston",
+      "oldOcean": 83.0,
+      "newOcean": 85,
+      "bunker": 29,
+      "delta": 2.0
+    },
+    {
+      "origin": "Nhava Sheva",
+      "port": "Chicago",
+      "oldOcean": 91.0,
+      "newOcean": 83,
+      "bunker": 29,
+      "delta": -8.0
+    },
+    {
+      "origin": "Nhava Sheva",
+      "port": "Joliet",
+      "oldOcean": 91.0,
+      "newOcean": 83,
+      "bunker": 29,
+      "delta": -8.0
+    },
+    {
+      "origin": "Nhava Sheva",
+      "port": "Harvey",
+      "oldOcean": 91.0,
+      "newOcean": 83,
+      "bunker": 29,
+      "delta": -8.0
+    },
+    {
+      "origin": "Mundra",
+      "port": "Chicago",
+      "oldOcean": 91.0,
+      "newOcean": 83,
+      "bunker": 29,
+      "delta": -8.0
+    },
+    {
+      "origin": "Mundra",
+      "port": "Joliet",
+      "oldOcean": 91.0,
+      "newOcean": 83,
+      "bunker": 29,
+      "delta": -8.0
+    },
+    {
+      "origin": "Mundra",
+      "port": "Harvey",
+      "oldOcean": 91.0,
+      "newOcean": 83,
+      "bunker": 29,
+      "delta": -8.0
+    },
+    {
+      "origin": "Pipavav",
+      "port": "Chicago",
+      "oldOcean": 103.0,
+      "newOcean": 96,
+      "bunker": 29,
+      "delta": -7.0
+    },
+    {
+      "origin": "Pipavav",
+      "port": "Joliet",
+      "oldOcean": 103.0,
+      "newOcean": 96,
+      "bunker": 29,
+      "delta": -7.0
+    },
+    {
+      "origin": "Pipavav",
+      "port": "Harvey",
+      "oldOcean": 103.0,
+      "newOcean": 96,
+      "bunker": 29,
+      "delta": -7.0
+    },
+    {
+      "origin": "Nhava Sheva",
+      "port": "Jacksonville",
+      "oldOcean": 94.0,
+      "newOcean": 86,
+      "bunker": 20,
+      "delta": -8.0
+    },
+    {
+      "origin": "Nhava Sheva",
+      "port": "New York",
+      "oldOcean": 85.0,
+      "newOcean": 77,
+      "bunker": 20,
+      "delta": -8.0
+    },
+    {
+      "origin": "Nhava Sheva",
+      "port": "Newark",
+      "oldOcean": 85.0,
+      "newOcean": 77,
+      "bunker": 20,
+      "delta": -8.0
+    },
+    {
+      "origin": "Nhava Sheva",
+      "port": "Savannah",
+      "oldOcean": 85.0,
+      "newOcean": 77,
+      "bunker": 20,
+      "delta": -8.0
+    },
+    {
+      "origin": "Mundra",
+      "port": "Jacksonville",
+      "oldOcean": 94.0,
+      "newOcean": 86,
+      "bunker": 20,
+      "delta": -8.0
+    },
+    {
+      "origin": "Mundra",
+      "port": "New York",
+      "oldOcean": 85.0,
+      "newOcean": 77,
+      "bunker": 20,
+      "delta": -8.0
+    },
+    {
+      "origin": "Mundra",
+      "port": "Newark",
+      "oldOcean": 85.0,
+      "newOcean": 77,
+      "bunker": 20,
+      "delta": -8.0
+    },
+    {
+      "origin": "Mundra",
+      "port": "Savannah",
+      "oldOcean": 85.0,
+      "newOcean": 77,
+      "bunker": 20,
+      "delta": -8.0
+    },
+    {
+      "origin": "Pipavav",
+      "port": "Jacksonville",
+      "oldOcean": 106.0,
+      "newOcean": 98,
+      "bunker": 20,
+      "delta": -8.0
+    },
+    {
+      "origin": "Pipavav",
+      "port": "New York",
+      "oldOcean": 97.0,
+      "newOcean": 89,
+      "bunker": 20,
+      "delta": -8.0
+    },
+    {
+      "origin": "Pipavav",
+      "port": "Newark",
+      "oldOcean": 97.0,
+      "newOcean": 89,
+      "bunker": 20,
+      "delta": -8.0
+    },
+    {
+      "origin": "Pipavav",
+      "port": "Savannah",
+      "oldOcean": 97.0,
+      "newOcean": 89,
+      "bunker": 20,
+      "delta": -8.0
+    },
+    {
+      "origin": "Nhava Sheva",
+      "port": "Long Beach",
+      "oldOcean": 76.0,
+      "newOcean": 68,
+      "bunker": 29,
+      "delta": -8.0
+    },
+    {
+      "origin": "Nhava Sheva",
+      "port": "Los Angeles",
+      "oldOcean": 76.0,
+      "newOcean": 68,
+      "bunker": 29,
+      "delta": -8.0
+    },
+    {
+      "origin": "Nhava Sheva",
+      "port": "Oakland",
+      "oldOcean": 83.0,
+      "newOcean": 76,
+      "bunker": 29,
+      "delta": -7.0
+    },
+    {
+      "origin": "Mundra",
+      "port": "Long Beach",
+      "oldOcean": 76.0,
+      "newOcean": 68,
+      "bunker": 29,
+      "delta": -8.0
+    },
+    {
+      "origin": "Mundra",
+      "port": "Los Angeles",
+      "oldOcean": 76.0,
+      "newOcean": 68,
+      "bunker": 29,
+      "delta": -8.0
+    },
+    {
+      "origin": "Mundra",
+      "port": "Oakland",
+      "oldOcean": 83.0,
+      "newOcean": 76,
+      "bunker": 29,
+      "delta": -7.0
+    },
+    {
+      "origin": "Pipavav",
+      "port": "Long Beach",
+      "oldOcean": 88.0,
+      "newOcean": 80,
+      "bunker": 29,
+      "delta": -8.0
+    },
+    {
+      "origin": "Pipavav",
+      "port": "Los Angeles",
+      "oldOcean": 88.0,
+      "newOcean": 80,
+      "bunker": 29,
+      "delta": -8.0
+    },
+    {
+      "origin": "Pipavav",
+      "port": "Oakland",
+      "oldOcean": 97.0,
+      "newOcean": 89,
+      "bunker": 29,
+      "delta": -8.0
+    }
+  ]
+}
