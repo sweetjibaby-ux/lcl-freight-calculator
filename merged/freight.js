@@ -1,7 +1,11 @@
 const $=id=>document.getElementById(id), D=window.RATE_DATA;
 const history={Romeoville:[77,28,11,56.5],Aberdeen:[80,26,9,56.5],Lathrop:[53,17,12,73.5],Jacksonville:[80,26,9,56.5]};
 const names=['基础海运费 Ocean Base','海运燃油费 Ocean Bunker Fuel','旺季附加费 Peak Season Surcharge','拖车基础费 Dray Base','拖车燃油费 Dray Fuel','AMS 舱单申报费','港口安全费 Port Security Fee','巴拿马运河附加费'];
-function portKey(s){return s.replace(/ Pt$/, '').trim()}
+function portKey(s) {
+ const name = s.trim().replace(/ Pt$/, '');
+ // Older PSS tables use the terminal's full name.
+ return name === 'Cai Mep International Terminal' ? 'Cai Mep' : name;
+}
 function unique(xs){return [...new Set(xs)].sort()}
 function options(id,values,preferred){let el=$(id),old=preferred??el.value;el.replaceChildren();values.forEach(v=>{let o=document.createElement('option');o.value=v;const wh=id==='warehouse'?window.CG_US_WAREHOUSES?.[v]:null;o.textContent=wh?`${wh.code} · ${wh.name}`:v;el.append(o)});if(values.includes(old))el.value=old;else if(values.length)el.value=values[0]}
 function ports(){options('port',unique(D.dray.filter(r=>r.warehouse===$('warehouse').value).map(r=>r.port)));origins()}
